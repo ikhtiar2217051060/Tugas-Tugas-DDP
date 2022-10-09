@@ -16,6 +16,6 @@ int main(){
 	cout<<"\nNPM \t\t\t: "<<q;
 	cout<<"\nKelas \t\t\t: "<<r;
 	cout<<"\nJurusan \t\t: "<<s<<endl;
-
+	//I.A.Wicaksono (Ph.D)
 	return 0;
 }
